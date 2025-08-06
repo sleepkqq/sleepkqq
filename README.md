@@ -20,10 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=sleepkqq&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
----
-
-### 🔥 Main Contribution: <a href="https://github.com/solo-leveling-org" target="_blank">solo-leveling-org</a>
-
 <p align="center">
   Actively building scalable backend systems and tools as part of the open-source community.
 </p>
