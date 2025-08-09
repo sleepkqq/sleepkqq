@@ -1,4 +1,4 @@
-<h3 align="center">🚀 Java/Kotlin Backend Developer</h3>
+<h3 align="center">Java/Kotlin Backend Developer</h3>
 
 <p align="center">
   <!-- LinkedIn -->
