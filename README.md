@@ -41,14 +41,6 @@
 
 ---
 
-### 🌍 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepkqq&theme=react-dark&hide_border=true&area=true" style="border-radius: 10px;" />
-</p>
-
----
-
 ### 📊 Codewars & Leetcode
 
 [![Codewars Badge](https://www.codewars.com/users/sleepkqq/badges/large)](https://www.codewars.com/users/sleepkqq)
