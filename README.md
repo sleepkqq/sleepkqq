@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Codewars & Leetcode
+### Codewars & Leetcode
 
 [![Codewars Badge](https://www.codewars.com/users/sleepkqq/badges/large)](https://www.codewars.com/users/sleepkqq)
 
