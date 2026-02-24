@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/solo-leveling-org"><img src="https://img.shields.io/badge/Organization-solo--leveling--org-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/soloist-ai"><img src="https://img.shields.io/badge/Organization-soloist--ai-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
